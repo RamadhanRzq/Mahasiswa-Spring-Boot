@@ -1,0 +1,6 @@
+{
+    "java.test.config": {
+        
+    },
+    "java.compile.nullAnalysis.mode": "automatic"
+}
